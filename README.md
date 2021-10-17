@@ -2,4 +2,4 @@
 
 Image slider created with HTML, CSS, Javascript
 
-### (LIVE DEMO)[https://gokhanturgut.github.io/image-slider/]
+### [LIVE DEMO](https://gokhanturgut.github.io/image-slider/)
